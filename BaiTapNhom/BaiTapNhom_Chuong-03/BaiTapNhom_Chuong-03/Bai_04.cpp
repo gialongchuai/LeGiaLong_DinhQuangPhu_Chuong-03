@@ -1,6 +1,9 @@
 ﻿/*
 	Viết hàm đổi những kí tự đầu tiên của mỗi từ thành chữ in hoa và
-	những từ không phải đầu câu sang chữ thường*/#include <stdio.h>
+	những từ không phải đầu câu sang chữ thường
+*/
+
+#include <stdio.h>
 #include <ctype.h>  // Để sử dụng các hàm isalpha, toupper, tolower
 #include <stdlib.h>
 // Hàm chuyển đổi ký tự đầu tiên của mỗi từ thành chữ in hoa và các ký tự còn lại thành chữ thường
