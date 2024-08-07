@@ -1,5 +1,8 @@
 ﻿/*
-	Viết chương trình chèn 1 từ ở bất cứ vị trí nào người dùng yêu cầu.*/#include <stdio.h>
+	Viết chương trình chèn 1 từ ở bất cứ vị trí nào người dùng yêu cầu.
+*/
+
+#include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #define MAX_LENGTH 100
